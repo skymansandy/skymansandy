@@ -25,4 +25,4 @@ Text         34 mins         ██▓░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skymansandy&show_icons=true&theme=dark" alt="abhisheknaiidu" />
+<img src="https://github-readme-stats.vercel.app/api?username=skymansandy&show_icons=true&theme=dark" alt="abhisheknaiidu" />
