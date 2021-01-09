@@ -13,7 +13,7 @@ Some stuff about me:
 - ⚡ Fun fact: The apps that I did while learning Android have over 5 lakh downloads in playstore and used by few people till date;
 - [Resume](https://www.linkedin.com/in/skymansandy/)
 
-📊 **My recent coding stats:**
+📊 **Past week I spent time on:**
 <!--START_SECTION:waka-->
 ```text
 C++          3 hrs 8 mins    ██████████████░░░░░░░░░░░   56.48 % 
