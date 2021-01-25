@@ -1,5 +1,7 @@
 ### Hello, World! 👋
 
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=skymansandy)
+
 I'm Sandesh Baliga a.k.a Sandy [He/Him]. A self taught developer from Mangalore, India 🚀 with speciality in Android app development. I've also explored other tech over time.
 
 Some stuff about me:
