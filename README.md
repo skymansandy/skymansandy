@@ -6,11 +6,11 @@ I'm Sandesh Baliga a.k.a Sandy [He/Him]. A self taught developer from Mangalore,
 
 Some stuff about me:
 
-- 🔭 I’m currently working on Kotlin, Flutter;
-- 🌱 I’m currently learning Rust, Python;
+- 🔭 I’m currently working on React;
+- 🌱 I’m currently learning React, Blockchain, CryptoCurrencies in general;
 - 👯 I’m looking to collaborate on Open Source projects;
-- 🤔 I’m looking for help with understanding the Android Internals;
-- 💬 Ask me about Android apps;
+- 🤔 I’m looking for help with understanding Android below the application layer;
+- 💬 Ask me about Android apps, Crypto;
 - 📫 How to reach me: LinkedIn @skymansandy;
 - ⚡ Fun fact: The apps that I did while learning Android have over 5 lakh downloads in playstore and used by few people till date;
 - [Resume](https://www.linkedin.com/in/skymansandy/)
