@@ -13,7 +13,7 @@ Some stuff about me:
 - 💬 Ask me about Android apps, Crypto;
 - 📫 How to reach me: LinkedIn @skymansandy;
 - ⚡ Fun fact: The apps that I did while learning Android have over 5 lakh downloads in playstore and used by few people till date;
-- [Resume](https://www.linkedin.com/in/skymansandy/)
+- [Resume](https://skymansandy.dev/)
 
 📊 **Past week I spent time on:**
 <!--START_SECTION:waka-->
