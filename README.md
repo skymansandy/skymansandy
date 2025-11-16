@@ -4,11 +4,11 @@
 
 ### 💻 About Me
 - 🚀 Kotlin Developer with strong experience in **Kotlin Multiplatform (KMP)**  
-- 📱 Passionate about building cross-platform apps for **Android, iOS, and beyond**    
+- 📱 Passionate about building mobile apps.
 
 ### 🔧 Tech Stack
-- **Languages:** Kotlin, Swift, JavaScript  
-- **Frameworks:** Kotlin Multiplatform, Jetpack Compose, Compose Multiplatform  
+- **Languages:** Kotlin, JavaScript, Swift, C++  
+- **Frameworks:** Kotlin Multiplatform, Jetpack Compose, Compose Multiplatform, Android SDK
 - **Tools:** Gradle, Ktor, Firebase, Git
 
 ### 🌐 Let's Connect
